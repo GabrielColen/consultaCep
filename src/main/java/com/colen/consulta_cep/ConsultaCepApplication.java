@@ -5,7 +5,6 @@ import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@Enable
 public class ConsultaCepApplication {
 
 	public static void main(String[] args) {
